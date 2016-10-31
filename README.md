@@ -1,3 +1,3 @@
-# Doggy Dates
+# Books
 
-A simple Tinder style dating apps for pets 
+A simple books app to learn React
